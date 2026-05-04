@@ -1,0 +1,10 @@
+2026-05-04 20:14:36 : Start initialization
+2026-05-04 20:14:36 : End initialization
+2026-05-04 20:14:36 : Start extract
+2026-05-04 20:14:37 : End extract
+2026-05-04 20:14:37 : Start transformation
+2026-05-04 20:14:37 : End transformation
+2026-05-04 20:14:37 : Start loading
+2026-05-04 20:14:37 : End loading
+2026-05-04 20:14:37 : Start querying
+2026-05-04 20:14:37 : End querying
